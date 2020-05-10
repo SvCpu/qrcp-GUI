@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "qrcp GUI", "qrcp GUI.vbproj", "{98BC0C01-5114-4BA5-971F-FB7353367190}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "QRCodeLib", "..\..\..\..\Downloads\QRCodeLibVB-master\QRCodeLib\QRCodeLib.vbproj", "{8105DB1C-DCAA-42AA-B437-F03E42676FC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98BC0C01-5114-4BA5-971F-FB7353367190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98BC0C01-5114-4BA5-971F-FB7353367190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98BC0C01-5114-4BA5-971F-FB7353367190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98BC0C01-5114-4BA5-971F-FB7353367190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8105DB1C-DCAA-42AA-B437-F03E42676FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8105DB1C-DCAA-42AA-B437-F03E42676FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8105DB1C-DCAA-42AA-B437-F03E42676FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8105DB1C-DCAA-42AA-B437-F03E42676FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C82762E-586F-4B92-8489-C02305BBFB5B}
+	EndGlobalSection
+EndGlobal
