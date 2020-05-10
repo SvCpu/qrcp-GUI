@@ -23,5 +23,5 @@ Qrcp GUI目前僅提供參數啟動qrcp.exe
 - Qrcp GUI為免費開源項目,任何人都不得將其用於任何盈利用途
 - 因不正當使用所導致的任何後果,本作者不承擔任何責任
 - 作者不是程式員,寫的代碼沒有什麼規範
-- 分享本軟件需要將以上說明放在明顯的地方,並且留下原地址([https://sites.google.com/view/svcpu/%E5%B0%8F%E5%B7%A5%E5%85%B7/qrcp-gui](https://sites.google.com/view/svcpu/小工具/qrcp-gui))
+- 分享本軟件需要將以上說明放在明顯的地方,並且留下原地址([https://github.com/SvCpu/qrcp-GUI](https://github.com/SvCpu/qrcp-GUI))
 - 遵循以上規則任何人都可以將其用於任何合法用途
